@@ -1,0 +1,12 @@
+效果不好被删掉的。
+baystation, neo4j, nixpkgs, origin, rails, sylius, symfony, wp_calypso, xbmc。
+
+这些项目是被排除了的项目，可能是因为比如数据太少，自由度上线太低等：
+akka, bootstrap, mono, terraform
+
+还要再删掉两个项目，使得那八种变量中的每一种都有一半以上的有效性。
+
+所以，删掉之后还剩下哪些项目呢？
+ansible, coreclr, corefx, elasticsearch, roslyn.
+
+又删掉了elasticsearch
